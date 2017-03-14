@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <topic name="Shopping list" category="Home" />
+  <topic name="Lectures" category="Work" />
+  <topic name="To do list" category="Personal" />
+  <topic name="2017 budget" category="Money budgeting" />
+  <topic name="Productivity" category="Articles" />
+  <topic name="New" category="Money budgeting" />
+  <topic name="1" category="Home" />
+  <topic name="1" category="Personal" />
+</root>
