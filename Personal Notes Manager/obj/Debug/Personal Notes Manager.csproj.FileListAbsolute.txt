@@ -1,0 +1,23 @@
+D:\MShtoda\WINFORMS\Personal Notes Manager\Personal Notes Manager\bin\Debug\Personal Notes Manager.exe.config
+D:\MShtoda\WINFORMS\Personal Notes Manager\Personal Notes Manager\bin\Debug\Personal Notes Manager.exe
+D:\MShtoda\WINFORMS\Personal Notes Manager\Personal Notes Manager\bin\Debug\Personal Notes Manager.pdb
+D:\MShtoda\WINFORMS\Personal Notes Manager\Personal Notes Manager\obj\Debug\Personal Notes Manager.csprojResolveAssemblyReference.cache
+D:\MShtoda\WINFORMS\Personal Notes Manager\Personal Notes Manager\obj\Debug\Personal_Notes_Manager.Form1.resources
+D:\MShtoda\WINFORMS\Personal Notes Manager\Personal Notes Manager\obj\Debug\Personal_Notes_Manager.Properties.Resources.resources
+D:\MShtoda\WINFORMS\Personal Notes Manager\Personal Notes Manager\obj\Debug\Personal Notes Manager.csproj.GenerateResource.Cache
+D:\MShtoda\WINFORMS\Personal Notes Manager\Personal Notes Manager\obj\Debug\Personal Notes Manager.exe
+D:\MShtoda\WINFORMS\Personal Notes Manager\Personal Notes Manager\obj\Debug\Personal Notes Manager.pdb
+D:\MShtoda\WINFORMS\Personal Notes Manager\Personal Notes Manager\obj\Debug\Personal_Notes_Manager.EditCat.resources
+D:\MShtoda\WINFORMS\Personal Notes Manager\Personal Notes Manager\obj\Debug\Personal_Notes_Manager.EditTopics.resources
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\bin\Debug\Personal Notes Manager.exe.config
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\obj\Debug\Personal Notes Manager.exe
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\obj\Debug\Personal Notes Manager.pdb
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\bin\Debug\Personal Notes Manager.exe
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\bin\Debug\Personal Notes Manager.pdb
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\obj\Debug\Personal Notes Manager.csprojResolveAssemblyReference.cache
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\obj\Debug\Personal_Notes_Manager.EditCat.resources
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\obj\Debug\Personal_Notes_Manager.EditTopics.resources
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\obj\Debug\Personal_Notes_Manager.Form1.resources
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\obj\Debug\Personal_Notes_Manager.Properties.Resources.resources
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\obj\Debug\Personal Notes Manager.csproj.GenerateResource.Cache
+D:\DariaTarabarina\WinForms\Personal Notes Manager 13.03\Personal Notes Manager\obj\Debug\Personal_Notes_Manager.EditNotes.resources
